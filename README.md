@@ -6,7 +6,7 @@ Gamelogger is another server-based application deployed within Heroku that utitl
 
 ### Link to Project
 
-https://gamelogger-app.herokuapp.com/
+https://gamelogger-v2.herokuapp.com/
 
 ### Comments
 
